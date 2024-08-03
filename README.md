@@ -37,3 +37,5 @@ The project focuses on creating a machine learning model to classify emails as e
 
 - **Final Model and Prediction:**
   - Use the trained model to make predictions on new email data. This involves transforming new email text data into numerical features using the same method as before and then using the trained model to classify the emails as spam or ham.
+ ---
+ <!-- Anurag Haldar -->
